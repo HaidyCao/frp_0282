@@ -21,12 +21,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/frp_0282/client/proxy"
-	"github.com/fatedier/frp_0282/g"
-	"github.com/fatedier/frp_0282/models/config"
-	"github.com/fatedier/frp_0282/models/msg"
-	"github.com/fatedier/frp_0282/utils/log"
-	frpNet "github.com/fatedier/frp_0282/utils/net"
+	"github.com/HaidyCao/frp_0282/client/proxy"
+	"github.com/HaidyCao/frp_0282/g"
+	"github.com/HaidyCao/frp_0282/models/config"
+	"github.com/HaidyCao/frp_0282/models/msg"
+	"github.com/HaidyCao/frp_0282/utils/log"
+	frpNet "github.com/HaidyCao/frp_0282/utils/net"
 
 	"github.com/fatedier/golib/control/shutdown"
 	"github.com/fatedier/golib/crypto"

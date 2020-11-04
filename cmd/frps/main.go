@@ -17,7 +17,7 @@ package main
 import (
 	"github.com/fatedier/golib/crypto"
 
-	_ "github.com/fatedier/frp_0282/assets/frps/statik"
+	_ "github.com/HaidyCao/frp_0282/assets/frps/statik"
 )
 
 func main() {

@@ -18,8 +18,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fatedier/frp_0282/models/config"
-	"github.com/fatedier/frp_0282/utils/log"
+	"github.com/HaidyCao/frp_0282/models/config"
+	"github.com/HaidyCao/frp_0282/utils/log"
 )
 
 type VisitorManager struct {
