@@ -1,4 +1,4 @@
-module github.com/Haidy/frp_0282
+module github.com/HaidyCao/frp_0282
 
 go 1.12
 
